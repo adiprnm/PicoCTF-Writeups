@@ -19,4 +19,4 @@ Since the `p` and `q` are prime numbers, we can get the `p` and `q`. factordb.co
 
 I placed the full script at the `decrypt.py`.
 
-Flag: `picoCTF{sma11_N_n0_g0od_73918962`
+Flag: `picoCTF{sma11_N_n0_g0od_73918962}`

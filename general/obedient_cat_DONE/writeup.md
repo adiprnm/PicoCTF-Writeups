@@ -1,0 +1,1 @@
+just open the file, and you get the flag. XD
